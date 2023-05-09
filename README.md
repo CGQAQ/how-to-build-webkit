@@ -22,3 +22,4 @@ Tools/Scripts/update-webkitgtk-libs
 cmake -DPORT=GTK -DCMAKE_BUILD_TYPE=RelWithDebInfo -GNinja
 ninja
 ```
+for more go [https://github.com/WebKit/WebKit#building-the-gtk-port]
